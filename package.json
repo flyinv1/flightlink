@@ -10,7 +10,7 @@
     "electron-is-dev": "^1.1.0",
     "electron-rebuild": "^1.8.8",
     "gl-rtplot": "file:../../../Dev/NPM/gl-rtplot",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "nodemon": "^2.0.2",
     "react": "^16.13.1",
     "react-dom": "^16.12.0",
